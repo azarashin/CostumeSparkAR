@@ -13,6 +13,10 @@ https://assetstore.unity.com/packages/3d/characters/animals/hamsto-95596
 
 https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256
 
+# Related Repository
+
+https://github.com/azarashin/ClappySparkAR
+
 # Setting
 
 Please install Spark AR Studio then open the file CostumeAR.arproj. 
